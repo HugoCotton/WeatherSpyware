@@ -20,4 +20,10 @@
  What I've done so far:
     Identified the files using WinDirStat
     Recorded processes using ProcMon and Fiddler
-    Attempted to copy files
+    Copied files
+
+ Update:
+   Uninstall does work!.. but only for the Roaming 'visible' section, the local is still there
+   As of now, I will be deleting these files, and finally get some peace of mind.
+   This github will still be here, but abandoned
+   I hope this helps anyone who falls into a similar situation, but it most likely wont happen as long as you have an antivirus or common sense
