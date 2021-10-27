@@ -27,3 +27,6 @@
    As of now, I will be deleting these files, and finally get some peace of mind.
    This github will still be here, but abandoned
    I hope this helps anyone who falls into a similar situation, but it most likely wont happen as long as you have an antivirus or common sense
+
+   PS: nw.dll was too large to upload, so I guess it'll be deleted now
+       Heres the link that the installer connected to, amongst others: https://kan-web-am.sfo3.digitaloceanspaces.com, https://didiserver.herokuapp.com, https://s3.tebi.io/kan-web-am/reg/, chrome-extension://kallgdibceggeagefefonleiaejmafd/app.html and a useful website: https://www.joesandbox.com/analysis/487057/0/html
