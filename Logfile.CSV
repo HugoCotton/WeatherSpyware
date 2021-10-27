@@ -1,0 +1,2 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"23:21:25.2122397","Download File DFAST.torrent.exe","5272","TCP Receive","DESKTOP-FR51PUU:60791 -> DESKTOP-FR51PUU:8888","SUCCESS","Length: 1555, seqnum: 0, connid: 0"
