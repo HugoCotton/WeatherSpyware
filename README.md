@@ -1,5 +1,5 @@
 # WeatherSpyware
- Spyware , wanted to get it off my computer, but still wanted to look at it - found in AppData\Local\Weather, in case anyone had the same problem as me - definitely some personal info on these files, but its aimed at Chrome so who cares
+ Spyware, wanted to get it off my computer, but still wanted to look at it - found in AppData\Local\Weather, in case anyone had the same problem as me - definitely some personal info on these files, but its aimed at Chrome so who cares
 
  in-action.jpg is a screenshot of it while working via Task Manager - usually doesn't appear - unsure if thats because chrome wasn't running or it hides itself
  Logfile.CSV is taken from ProcMon at the point of running the original .exe, accidentally only took one entry instead of the many, but you could do this yourself
@@ -30,3 +30,8 @@
 
    PS: nw.dll was too large to upload, so I guess it'll be deleted now
        Heres the link that the installer connected to, amongst others: https://kan-web-am.sfo3.digitaloceanspaces.com, https://didiserver.herokuapp.com, https://s3.tebi.io/kan-web-am/reg/, chrome-extension://kallgdibceggeagefefonleiaejmafd/app.html and a useful website: https://www.joesandbox.com/analysis/487057/0/html
+
+
+
+
+IM redditor!!!!! DDD: REDIT... me love
