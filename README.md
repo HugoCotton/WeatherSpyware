@@ -1,5 +1,5 @@
 # WeatherSpyware
- Spyware , wanted to get it off my computer, but still wanted to look at it - found in AppData\Local\Weather, in case anyone had the same problem as me - definitely some personal info on these files, but its aimed at Chrome so who cares
+ Spyware, wanted to get it off my computer, but still wanted to look at it - found in AppData\Local\Weather, in case anyone had the same problem as me - definitely some personal info on these files, but its aimed at Chrome so who cares
 
  in-action.jpg is a screenshot of it while working via Task Manager - usually doesn't appear - unsure if thats because chrome wasn't running or it hides itself
  Logfile.CSV is taken from ProcMon at the point of running the original .exe, accidentally only took one entry instead of the many, but you could do this yourself
